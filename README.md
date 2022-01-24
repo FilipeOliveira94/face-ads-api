@@ -11,7 +11,7 @@ One problem is this API endpoint doesn't provide much data on the links used on 
 
 This API was built using PHP and the Laragon toolkit. It was also necessary to install Facebook's SDK with the composer module before building this code, which can be found on the links below.
 
-The documentation for both these Facebook's Graph API can be found here:
+The documentation for the Facebook's Graph API can be found here:
 1. [Ad Insights](https://developers.facebook.com/docs/marketing-api/insights/)
 2. [Ad Creative](https://developers.facebook.com/docs/marketing-api/reference/ad-creative/)
 3. [Facebook SDK](https://developers.facebook.com/docs/business-sdk/getting-started/?locale=pt_BR)
